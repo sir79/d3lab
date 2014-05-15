@@ -1,0 +1,842 @@
+[
+    {
+        "date": 1388534400,
+        "timeMedian": 316,
+        "clicks": 66
+    },
+    {
+        "date": 1388538000,
+        "timeMedian": 252,
+        "clicks": 33
+    },
+    {
+        "date": 1388541600,
+        "timeMedian": 174,
+        "clicks": 28
+    },
+    {
+        "date": 1388545200,
+        "timeMedian": 476,
+        "clicks": 67
+    },
+    {
+        "date": 1388548800,
+        "timeMedian": 583,
+        "clicks": 87
+    },
+    {
+        "date": 1388552400,
+        "timeMedian": 575,
+        "clicks": 182
+    },
+    {
+        "date": 1388556000,
+        "timeMedian": 515,
+        "clicks": 46
+    },
+    {
+        "date": 1388559600,
+        "timeMedian": 297,
+        "clicks": 93
+    },
+    {
+        "date": 1388563200,
+        "timeMedian": 473,
+        "clicks": 0
+    },
+    {
+        "date": 1388566800,
+        "timeMedian": 125,
+        "clicks": 140
+    },
+    {
+        "date": 1388570400,
+        "timeMedian": 584,
+        "clicks": 78
+    },
+    {
+        "date": 1388574000,
+        "timeMedian": 275,
+        "clicks": 79
+    },
+    {
+        "date": 1388577600,
+        "timeMedian": 250,
+        "clicks": 189
+    },
+    {
+        "date": 1388581200,
+        "timeMedian": 122,
+        "clicks": 108
+    },
+    {
+        "date": 1388584800,
+        "timeMedian": 57,
+        "clicks": 56
+    },
+    {
+        "date": 1388588400,
+        "timeMedian": 587,
+        "clicks": 87
+    },
+    {
+        "date": 1388592000,
+        "timeMedian": 208,
+        "clicks": 75
+    },
+    {
+        "date": 1388595600,
+        "timeMedian": 358,
+        "clicks": 198
+    },
+    {
+        "date": 1388599200,
+        "timeMedian": 463,
+        "clicks": 59
+    },
+    {
+        "date": 1388602800,
+        "timeMedian": 300,
+        "clicks": 109
+    },
+    {
+        "date": 1388606400,
+        "timeMedian": 521,
+        "clicks": 27
+    },
+    {
+        "date": 1388610000,
+        "timeMedian": 211,
+        "clicks": 159
+    },
+    {
+        "date": 1388613600,
+        "timeMedian": 442,
+        "clicks": 200
+    },
+    {
+        "date": 1388617200,
+        "timeMedian": 326,
+        "clicks": 99
+    },
+    {
+        "date": 1388620800,
+        "timeMedian": 72,
+        "clicks": 175
+    },
+    {
+        "date": 1388624400,
+        "timeMedian": 426,
+        "clicks": 96
+    },
+    {
+        "date": 1388628000,
+        "timeMedian": 97,
+        "clicks": 129
+    },
+    {
+        "date": 1388631600,
+        "timeMedian": 512,
+        "clicks": 131
+    },
+    {
+        "date": 1388635200,
+        "timeMedian": 555,
+        "clicks": 136
+    },
+    {
+        "date": 1388638800,
+        "timeMedian": 293,
+        "clicks": 142
+    },
+    {
+        "date": 1388642400,
+        "timeMedian": 568,
+        "clicks": 74
+    },
+    {
+        "date": 1388646000,
+        "timeMedian": 435,
+        "clicks": 117
+    },
+    {
+        "date": 1388649600,
+        "timeMedian": 228,
+        "clicks": 135
+    },
+    {
+        "date": 1388653200,
+        "timeMedian": 75,
+        "clicks": 57
+    },
+    {
+        "date": 1388656800,
+        "timeMedian": 496,
+        "clicks": 175
+    },
+    {
+        "date": 1388660400,
+        "timeMedian": 340,
+        "clicks": 54
+    },
+    {
+        "date": 1388664000,
+        "timeMedian": 287,
+        "clicks": 166
+    },
+    {
+        "date": 1388667600,
+        "timeMedian": 554,
+        "clicks": 104
+    },
+    {
+        "date": 1388671200,
+        "timeMedian": 84,
+        "clicks": 191
+    },
+    {
+        "date": 1388674800,
+        "timeMedian": 176,
+        "clicks": 110
+    },
+    {
+        "date": 1388678400,
+        "timeMedian": 339,
+        "clicks": 195
+    },
+    {
+        "date": 1388682000,
+        "timeMedian": 243,
+        "clicks": 20
+    },
+    {
+        "date": 1388685600,
+        "timeMedian": 501,
+        "clicks": 38
+    },
+    {
+        "date": 1388689200,
+        "timeMedian": 276,
+        "clicks": 138
+    },
+    {
+        "date": 1388692800,
+        "timeMedian": 511,
+        "clicks": 121
+    },
+    {
+        "date": 1388696400,
+        "timeMedian": 564,
+        "clicks": 188
+    },
+    {
+        "date": 1388700000,
+        "timeMedian": 349,
+        "clicks": 44
+    },
+    {
+        "date": 1388703600,
+        "timeMedian": 132,
+        "clicks": 196
+    },
+    {
+        "date": 1388707200,
+        "timeMedian": 242,
+        "clicks": 92
+    },
+    {
+        "date": 1388710800,
+        "timeMedian": 543,
+        "clicks": 84
+    },
+    {
+        "date": 1388714400,
+        "timeMedian": 272,
+        "clicks": 37
+    },
+    {
+        "date": 1388718000,
+        "timeMedian": 277,
+        "clicks": 160
+    },
+    {
+        "date": 1388721600,
+        "timeMedian": 540,
+        "clicks": 95
+    },
+    {
+        "date": 1388725200,
+        "timeMedian": 41,
+        "clicks": 164
+    },
+    {
+        "date": 1388728800,
+        "timeMedian": 34,
+        "clicks": 18
+    },
+    {
+        "date": 1388732400,
+        "timeMedian": 386,
+        "clicks": 0
+    },
+    {
+        "date": 1388736000,
+        "timeMedian": 575,
+        "clicks": 126
+    },
+    {
+        "date": 1388739600,
+        "timeMedian": 173,
+        "clicks": 65
+    },
+    {
+        "date": 1388743200,
+        "timeMedian": 97,
+        "clicks": 142
+    },
+    {
+        "date": 1388746800,
+        "timeMedian": 6,
+        "clicks": 180
+    },
+    {
+        "date": 1388750400,
+        "timeMedian": 192,
+        "clicks": 54
+    },
+    {
+        "date": 1388754000,
+        "timeMedian": 211,
+        "clicks": 170
+    },
+    {
+        "date": 1388757600,
+        "timeMedian": 75,
+        "clicks": 103
+    },
+    {
+        "date": 1388761200,
+        "timeMedian": 215,
+        "clicks": 96
+    },
+    {
+        "date": 1388764800,
+        "timeMedian": 571,
+        "clicks": 34
+    },
+    {
+        "date": 1388768400,
+        "timeMedian": 143,
+        "clicks": 198
+    },
+    {
+        "date": 1388772000,
+        "timeMedian": 520,
+        "clicks": 40
+    },
+    {
+        "date": 1388775600,
+        "timeMedian": 282,
+        "clicks": 103
+    },
+    {
+        "date": 1388779200,
+        "timeMedian": 83,
+        "clicks": 48
+    },
+    {
+        "date": 1388782800,
+        "timeMedian": 12,
+        "clicks": 115
+    },
+    {
+        "date": 1388786400,
+        "timeMedian": 545,
+        "clicks": 24
+    },
+    {
+        "date": 1388790000,
+        "timeMedian": 375,
+        "clicks": 179
+    },
+    {
+        "date": 1388793600,
+        "timeMedian": 221,
+        "clicks": 131
+    },
+    {
+        "date": 1388797200,
+        "timeMedian": 227,
+        "clicks": 138
+    },
+    {
+        "date": 1388800800,
+        "timeMedian": 419,
+        "clicks": 125
+    },
+    {
+        "date": 1388804400,
+        "timeMedian": 239,
+        "clicks": 0
+    },
+    {
+        "date": 1388808000,
+        "timeMedian": 178,
+        "clicks": 197
+    },
+    {
+        "date": 1388811600,
+        "timeMedian": 271,
+        "clicks": 51
+    },
+    {
+        "date": 1388815200,
+        "timeMedian": 15,
+        "clicks": 77
+    },
+    {
+        "date": 1388818800,
+        "timeMedian": 256,
+        "clicks": 150
+    },
+    {
+        "date": 1388822400,
+        "timeMedian": 591,
+        "clicks": 45
+    },
+    {
+        "date": 1388826000,
+        "timeMedian": 521,
+        "clicks": 116
+    },
+    {
+        "date": 1388829600,
+        "timeMedian": 152,
+        "clicks": 150
+    },
+    {
+        "date": 1388833200,
+        "timeMedian": 573,
+        "clicks": 131
+    },
+    {
+        "date": 1388836800,
+        "timeMedian": 312,
+        "clicks": 189
+    },
+    {
+        "date": 1388840400,
+        "timeMedian": 514,
+        "clicks": 44
+    },
+    {
+        "date": 1388844000,
+        "timeMedian": 573,
+        "clicks": 77
+    },
+    {
+        "date": 1388847600,
+        "timeMedian": 58,
+        "clicks": 103
+    },
+    {
+        "date": 1388851200,
+        "timeMedian": 586,
+        "clicks": 113
+    },
+    {
+        "date": 1388854800,
+        "timeMedian": 237,
+        "clicks": 86
+    },
+    {
+        "date": 1388858400,
+        "timeMedian": 246,
+        "clicks": 21
+    },
+    {
+        "date": 1388862000,
+        "timeMedian": 445,
+        "clicks": 51
+    },
+    {
+        "date": 1388865600,
+        "timeMedian": 6,
+        "clicks": 174
+    },
+    {
+        "date": 1388869200,
+        "timeMedian": 415,
+        "clicks": 82
+    },
+    {
+        "date": 1388872800,
+        "timeMedian": 503,
+        "clicks": 121
+    },
+    {
+        "date": 1388876400,
+        "timeMedian": 468,
+        "clicks": 7
+    },
+    {
+        "date": 1388880000,
+        "timeMedian": 273,
+        "clicks": 146
+    },
+    {
+        "date": 1388883600,
+        "timeMedian": 166,
+        "clicks": 6
+    },
+    {
+        "date": 1388887200,
+        "timeMedian": 191,
+        "clicks": 67
+    },
+    {
+        "date": 1388890800,
+        "timeMedian": 363,
+        "clicks": 163
+    },
+    {
+        "date": 1388894400,
+        "timeMedian": 61,
+        "clicks": 12
+    },
+    {
+        "date": 1388898000,
+        "timeMedian": 570,
+        "clicks": 46
+    },
+    {
+        "date": 1388901600,
+        "timeMedian": 26,
+        "clicks": 125
+    },
+    {
+        "date": 1388905200,
+        "timeMedian": 525,
+        "clicks": 156
+    },
+    {
+        "date": 1388908800,
+        "timeMedian": 178,
+        "clicks": 140
+    },
+    {
+        "date": 1388912400,
+        "timeMedian": 145,
+        "clicks": 8
+    },
+    {
+        "date": 1388916000,
+        "timeMedian": 215,
+        "clicks": 103
+    },
+    {
+        "date": 1388919600,
+        "timeMedian": 92,
+        "clicks": 76
+    },
+    {
+        "date": 1388923200,
+        "timeMedian": 249,
+        "clicks": 144
+    },
+    {
+        "date": 1388926800,
+        "timeMedian": 24,
+        "clicks": 107
+    },
+    {
+        "date": 1388930400,
+        "timeMedian": 13,
+        "clicks": 20
+    },
+    {
+        "date": 1388934000,
+        "timeMedian": 203,
+        "clicks": 106
+    },
+    {
+        "date": 1388937600,
+        "timeMedian": 553,
+        "clicks": 106
+    },
+    {
+        "date": 1388941200,
+        "timeMedian": 387,
+        "clicks": 133
+    },
+    {
+        "date": 1388944800,
+        "timeMedian": 352,
+        "clicks": 118
+    },
+    {
+        "date": 1388948400,
+        "timeMedian": 560,
+        "clicks": 90
+    },
+    {
+        "date": 1388952000,
+        "timeMedian": 240,
+        "clicks": 194
+    },
+    {
+        "date": 1388955600,
+        "timeMedian": 433,
+        "clicks": 126
+    },
+    {
+        "date": 1388959200,
+        "timeMedian": 492,
+        "clicks": 184
+    },
+    {
+        "date": 1388962800,
+        "timeMedian": 409,
+        "clicks": 192
+    },
+    {
+        "date": 1388966400,
+        "timeMedian": 463,
+        "clicks": 154
+    },
+    {
+        "date": 1388970000,
+        "timeMedian": 321,
+        "clicks": 48
+    },
+    {
+        "date": 1388973600,
+        "timeMedian": 366,
+        "clicks": 81
+    },
+    {
+        "date": 1388977200,
+        "timeMedian": 514,
+        "clicks": 45
+    },
+    {
+        "date": 1388980800,
+        "timeMedian": 86,
+        "clicks": 112
+    },
+    {
+        "date": 1388984400,
+        "timeMedian": 143,
+        "clicks": 41
+    },
+    {
+        "date": 1388988000,
+        "timeMedian": 86,
+        "clicks": 5
+    },
+    {
+        "date": 1388991600,
+        "timeMedian": 313,
+        "clicks": 185
+    },
+    {
+        "date": 1388995200,
+        "timeMedian": 136,
+        "clicks": 21
+    },
+    {
+        "date": 1388998800,
+        "timeMedian": 271,
+        "clicks": 189
+    },
+    {
+        "date": 1389002400,
+        "timeMedian": 266,
+        "clicks": 26
+    },
+    {
+        "date": 1389006000,
+        "timeMedian": 463,
+        "clicks": 151
+    },
+    {
+        "date": 1389009600,
+        "timeMedian": 531,
+        "clicks": 172
+    },
+    {
+        "date": 1389013200,
+        "timeMedian": 35,
+        "clicks": 123
+    },
+    {
+        "date": 1389016800,
+        "timeMedian": 286,
+        "clicks": 160
+    },
+    {
+        "date": 1389020400,
+        "timeMedian": 361,
+        "clicks": 134
+    },
+    {
+        "date": 1389024000,
+        "timeMedian": 457,
+        "clicks": 125
+    },
+    {
+        "date": 1389027600,
+        "timeMedian": 291,
+        "clicks": 40
+    },
+    {
+        "date": 1389031200,
+        "timeMedian": 528,
+        "clicks": 114
+    },
+    {
+        "date": 1389034800,
+        "timeMedian": 428,
+        "clicks": 117
+    },
+    {
+        "date": 1389038400,
+        "timeMedian": 575,
+        "clicks": 43
+    },
+    {
+        "date": 1389042000,
+        "timeMedian": 320,
+        "clicks": 27
+    },
+    {
+        "date": 1389045600,
+        "timeMedian": 297,
+        "clicks": 142
+    },
+    {
+        "date": 1389049200,
+        "timeMedian": 369,
+        "clicks": 96
+    },
+    {
+        "date": 1389052800,
+        "timeMedian": 97,
+        "clicks": 134
+    },
+    {
+        "date": 1389056400,
+        "timeMedian": 518,
+        "clicks": 121
+    },
+    {
+        "date": 1389060000,
+        "timeMedian": 399,
+        "clicks": 155
+    },
+    {
+        "date": 1389063600,
+        "timeMedian": 455,
+        "clicks": 198
+    },
+    {
+        "date": 1389067200,
+        "timeMedian": 479,
+        "clicks": 96
+    },
+    {
+        "date": 1389070800,
+        "timeMedian": 195,
+        "clicks": 46
+    },
+    {
+        "date": 1389074400,
+        "timeMedian": 475,
+        "clicks": 61
+    },
+    {
+        "date": 1389078000,
+        "timeMedian": 437,
+        "clicks": 126
+    },
+    {
+        "date": 1389081600,
+        "timeMedian": 316,
+        "clicks": 10
+    },
+    {
+        "date": 1389085200,
+        "timeMedian": 71,
+        "clicks": 175
+    },
+    {
+        "date": 1389088800,
+        "timeMedian": 339,
+        "clicks": 92
+    },
+    {
+        "date": 1389092400,
+        "timeMedian": 323,
+        "clicks": 100
+    },
+    {
+        "date": 1389096000,
+        "timeMedian": 23,
+        "clicks": 3
+    },
+    {
+        "date": 1389099600,
+        "timeMedian": 314,
+        "clicks": 91
+    },
+    {
+        "date": 1389103200,
+        "timeMedian": 161,
+        "clicks": 132
+    },
+    {
+        "date": 1389106800,
+        "timeMedian": 278,
+        "clicks": 158
+    },
+    {
+        "date": 1389110400,
+        "timeMedian": 432,
+        "clicks": 49
+    },
+    {
+        "date": 1389114000,
+        "timeMedian": 439,
+        "clicks": 105
+    },
+    {
+        "date": 1389117600,
+        "timeMedian": 81,
+        "clicks": 146
+    },
+    {
+        "date": 1389121200,
+        "timeMedian": 133,
+        "clicks": 189
+    },
+    {
+        "date": 1389124800,
+        "timeMedian": 478,
+        "clicks": 129
+    },
+    {
+        "date": 1389128400,
+        "timeMedian": 320,
+        "clicks": 108
+    },
+    {
+        "date": 1389132000,
+        "timeMedian": 42,
+        "clicks": 45
+    },
+    {
+        "date": 1389135600,
+        "timeMedian": 103,
+        "clicks": 79
+    }
+]

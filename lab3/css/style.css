@@ -1,0 +1,11 @@
+body {
+	overflow-y:scroll;
+}
+
+text {
+	font: 12px sans-serif;
+}
+
+svg {
+	display: block;
+}

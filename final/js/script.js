@@ -1,3 +1,4 @@
+
 var	margin = {top: 30, right: 40, bottom: 30, left: 50},
 	width = 600 - margin.left - margin.right,
 	height = 270 - margin.top - margin.bottom;
@@ -19,7 +20,7 @@ var	valueline = d3.svg.line()
 // 	.x(function(d) { return x(d.date); })
 // 	.y(function(d) { return y(d.open); });
 
-var	svg = d3.select("body")
+var	svg = d3.select("#example")
 	.append("svg")
 		.attr("width", width + margin.left + margin.right)
 		.attr("height", height + margin.top + margin.bottom)
